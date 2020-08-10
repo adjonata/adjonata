@@ -17,9 +17,6 @@ Para mais detalhes sobre mim acesse [meu site](https://welcometoalex.space)
 </a>
 <a target="_blank" href="mailto:alexdjonata30@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
----
-
+</a> <br /><br />
 
 Logo abaixo desse readme está fixado meus projetos principais 👇
