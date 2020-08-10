@@ -3,8 +3,13 @@
 ---
 
 ### Olá amigo 👋
-Aqui você pode olhar meus projetos e contribuir caso queira. <br />
-Para mais detalhes sobre mim acesse [meu site](https://welcometoalex.space)
+Para mais detalhes sobre mim acesse [meu site](https://welcometoalex.space)<br />
+
+---
+
+### Snipptes: 
+- [Gist](https://gist.github.com/AlexDjon)
+- [JsFiddle](https://jsfiddle.net/user/AlexDjonata/fiddles/)
 
 ---
 
