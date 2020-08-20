@@ -3,13 +3,15 @@
 ---
 
 ### Olá amigo 👋
-Para mais detalhes sobre mim acesse [meu site](https://welcometoalex.space)<br />
+Para mais detalhes sobre mim acesse:
+- [Meu site](https://welcometoalex.space)<br />
 
 ---
 
-### Snipptes: 
+### Snipptes & More Codes: 
 - [Gist](https://gist.github.com/AlexDjon)
 - [JsFiddle](https://jsfiddle.net/user/AlexDjonata/fiddles/)
+- [GitLab](https://gitlab.com/alexdjonata)
 
 ---
 
