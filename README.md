@@ -4,7 +4,7 @@
 
 ### Olá amigo 👋
 Para mais detalhes sobre mim acesse:
-- [Meu site](https://welcometoalex.space)<br />
+- https://welcometoalex.space<br />
 
 ---
 
