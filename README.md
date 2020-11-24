@@ -2,8 +2,7 @@
 
 ---
 
-### Olá amigo 👋
-Para mais detalhes sobre mim acesse:
+### Detalhes sobre mim
 - https://welcometoalex.space<br />
 
 ---
