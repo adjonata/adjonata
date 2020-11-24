@@ -2,7 +2,7 @@
 
 ---
 
-### Detalhes sobre mim
+### Sobre mim
 - https://welcometoalex.space<br />
 
 ---
