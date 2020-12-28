@@ -1,0 +1,87 @@
+/* -- Definições Globais -- */
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@500&family=Open+Sans:wght@400;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  color: var(--grey-t1);
+}
+
+:root {
+  --black-t1: #111111;
+  --black-t2: #181818;
+  --black-t3: #222222;
+  --white-t1: #FFFFFF;
+  --white-t2: #F8F8F8;
+  --grey-t1: #5A5A5A;
+  --grey-t2: #CECECE;
+  --purple-t1: #A23FF8;
+  --purple-t2: #9212FF;
+  --purple-t3: #8E0AFE;
+
+  --shadow: 0 0 14px 0 rgba(0, 0, 0, 0.205);
+  --base: 1250px;
+}
+
+@media (max-width: 800px) {
+  :root {
+    --base: 100%;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--white-t1);
+}
+
+a {
+  color: var(--grey-t1);
+}
+
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: var(--base);
+}
+.title {
+  font-size: 27px;
+  line-height: 30px;
+  font-weight: normal;
+}
+.title b {
+  font-weight: 600;
+}
+
+@media (max-width: 800px) {
+  .title {
+    font-size: 23px;
+    line-height: 30px;
+    font-weight: normal;
+  }
+  .title b {
+    font-weight: 600;
+  }
+}
+
+.circle-radius-t1 {
+  border-radius: 50%;
+}
+.circle-radius-t2 {
+  border-radius: 30%;
+}
+.circle-radius-t3 {
+  border-radius: 20%;
+}
+.circle-radius-t4 {
+  border-radius: 10%;
+}
