@@ -11,7 +11,7 @@
 - [GitLab](https://gitlab.com/alexdjonata)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adjonata)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adjonata&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### Redes Sociais
