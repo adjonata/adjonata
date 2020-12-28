@@ -1,6 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adjonata)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ### About Me
 - https://welcometoalex.space<br />
@@ -12,6 +10,8 @@
 - [JsFiddle](https://jsfiddle.net/user/AlexDjonata/fiddles/)
 - [GitLab](https://gitlab.com/alexdjonata)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adjonata)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### Redes Sociais
