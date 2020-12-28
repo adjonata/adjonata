@@ -1,11 +1,11 @@
 
 
-### About Me
+### Sobre mim:
 - https://welcometoalex.space<br />
 
 ---
 
-### Snipptes & More Codes: 
+### Snipptes & Códigos: 
 - [Gist](https://gist.github.com/adjonata)
 - [JsFiddle](https://jsfiddle.net/user/AlexDjonata/fiddles/)
 - [GitLab](https://gitlab.com/alexdjonata)
