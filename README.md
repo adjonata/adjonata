@@ -1,4 +1,4 @@
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexDjon&show_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=adjonata&show_icons=true)
 
 ---
 
@@ -8,7 +8,7 @@
 ---
 
 ### Snipptes & More Codes: 
-- [Gist](https://gist.github.com/AlexDjon)
+- [Gist](https://gist.github.com/adjonata)
 - [JsFiddle](https://jsfiddle.net/user/AlexDjonata/fiddles/)
 - [GitLab](https://gitlab.com/alexdjonata)
 
