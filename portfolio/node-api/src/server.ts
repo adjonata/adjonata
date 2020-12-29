@@ -4,20 +4,15 @@ dotenv.config({
   path: __dirname + "/../.env"
 });
 
-import express from "express";
-import routes from "./routes";
 import mongoose from "mongoose";
-
-const app = express();
-
-app.use(express.json());
-app.use(routes);
+import app from "./app";
 
 mongoose
   .connect(process.env.CONNECTION!, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
-    useCreateIndex: true
+    useCreateIndex: true,
+    useFindAndModify: false
   })
   .then(() => {
     let port: number = 3333;
