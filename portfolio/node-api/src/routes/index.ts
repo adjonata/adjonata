@@ -1,10 +1,11 @@
 import { Router } from "express";
 
+import AboutRouter from "./about.routes";
+import KnowledgeRouter from "./knowledge.routes";
+
 const router = Router();
 
-router.get("/", (req, res) => {
-  console.log(req.body);
-  return res.json({ message: "Testando primeira requisição" });
-});
+router.use("/about", AboutRouter);
+router.use("/knowledge", KnowledgeRouter);
 
 export default router;
