@@ -1,7 +1,11 @@
 import { Request, Response, NextFunction } from "express";
 import { validationResult } from "express-validator";
 
-function verifyRequest(request: Request, response: Response, next: NextFunction) {
+const verifyRequest = (
+  request: Request,
+  response: Response,
+  next: NextFunction
+) => {
   const errors = validationResult(request);
 
   if (!errors.isEmpty()) {
@@ -9,6 +13,6 @@ function verifyRequest(request: Request, response: Response, next: NextFunction)
   } else {
     next();
   }
-}
+};
 
 export { verifyRequest };
