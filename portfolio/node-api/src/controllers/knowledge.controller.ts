@@ -1,6 +1,5 @@
-import Knowledges, { IKnowledges } from "../models/knowledges.model";
+import Knowledges, { IKnowledges } from "../models/knowledge.model";
 import { Request, Response } from "express";
-import KnowledgeRouter from "../routes/knowledge.routes";
 
 export default {
   /**
@@ -48,8 +47,8 @@ export default {
       image
     };
     return await Knowledges.findOneAndUpdate(query, body)
-      .then(res => response.status(200).json(res))
-      .catch(err => response.status(400).json({ msg: "Knowledge not foud" }));
+      .then(res => response.status(200).json({ msg: "Success in edit" }))
+      .catch(err => response.status(400).json({ msg: "Knowledge not found" }));
   },
 
   /**
@@ -63,7 +62,7 @@ export default {
     };
 
     return await Knowledges.findOneAndDelete(query)
-      .then(res => response.status(200).json(res))
-      .catch(err => response.status(400).json({ msg: "Knowledge not foud" }));
+      .then(res => response.status(200).json({ msg: "Success in delete" }))
+      .catch(err => response.status(400).json({ msg: "Knowledge not found" }));
   }
 };

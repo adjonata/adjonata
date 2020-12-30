@@ -9,7 +9,11 @@ export interface ISocial extends Document {
 const Socials = new Schema({
   title: Schema.Types.String,
   image: Schema.Types.String,
-  link: Schema.Types.String
+  link: Schema.Types.String,
+  createdIn: {
+    type: Date,
+    default: Date.now
+  }
 });
 
 export default mongoose.model<ISocial>("Socials", Socials);
