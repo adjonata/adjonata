@@ -1,6 +1,6 @@
 import { Router } from "express";
 
-import KnowledgeController from "../controllers/knowledges.controller";
+import KnowledgeController from "../controllers/knowledge.controller";
 import KnowledgeValidation from "../validation/knowledge.valid";
 import { verifyRequest } from "../utils/validation";
 
