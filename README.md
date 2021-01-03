@@ -5,7 +5,7 @@
 
 ---
 
-### Snipptes & Códigos: 
+### Outros códigos: 
 - [Gist](https://gist.github.com/adjonata)
 - [JsFiddle](https://jsfiddle.net/user/AlexDjonata/fiddles/)
 - [GitLab](https://gitlab.com/alexdjonata)
