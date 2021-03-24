@@ -24,7 +24,7 @@
     { 
       "nome": "ChocoFestas", 
       "recente": true,
-      "link": "https://welcometoalex.space/choco/", 
+      "link": "https://github.com/adjonata/choco-festas", 
       "img": "chocofestas.png",
       "screenshot": "chocofestas.png",
       "destaque": false
@@ -60,7 +60,7 @@
       "icon": "fa-linkedin"
     },
     {
-      "link": "https://github.com/AlexDjon",
+      "link": "https://github.com/adjonata",
       "iconType": "fab",
       "icon": "fa-github"
     },
